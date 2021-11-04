@@ -1,0 +1,3 @@
+[submodule "Data_Collection/TinyJPEG"]
+	path = Data_Collection/TinyJPEG
+	url = https://github.com/serge-rgb/TinyJPEG.git
